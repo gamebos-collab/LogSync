@@ -1,0 +1,23 @@
+# Ignore Visual Studio temporary files, build results, and VS Code settings
+.vs/
+.vscode/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+# Rider
+.idea/
+# Visual Studio Code
+.settings/
+*.code-workspace
+# ReSharper
+_ReSharper*/
+*~
+# Build results
+[Dd]ebug/
+[Rr]elease/
+$[Rr]elease/
+# Backup files
+*~
